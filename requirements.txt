@@ -1,0 +1,5 @@
+getgauge
+requests
+requests-toolbelt==0.9.1
+colorlog==6.6.0
+jsondiff

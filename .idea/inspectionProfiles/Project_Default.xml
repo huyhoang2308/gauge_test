@@ -1,0 +1,42 @@
+<component name="InspectionProjectProfileManager">
+  <profile version="1.0">
+    <option name="myName" value="Project Default" />
+    <inspection_tool class="PyPackageRequirementsInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredPackages">
+        <value>
+          <list size="3">
+            <item index="0" class="java.lang.String" itemvalue="jira" />
+            <item index="1" class="java.lang.String" itemvalue="plotly" />
+            <item index="2" class="java.lang.String" itemvalue="pandas" />
+          </list>
+        </value>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyPep8NamingInspection" enabled="true" level="WEAK WARNING" enabled_by_default="true">
+      <option name="ignoredErrors">
+        <list>
+          <option value="N802" />
+          <option value="N803" />
+        </list>
+      </option>
+    </inspection_tool>
+    <inspection_tool class="PyUnresolvedReferencesInspection" enabled="true" level="WARNING" enabled_by_default="true">
+      <option name="ignoredIdentifiers">
+        <list>
+          <option value="object.orderId" />
+          <option value="object.x_cart_token" />
+          <option value="object.coupon" />
+          <option value="object.code" />
+          <option value="object.number_add_to_cart" />
+          <option value="object.id" />
+          <option value="object.grandTotal" />
+          <option value="object.*" />
+          <option value="type.*" />
+          <option value="Jira.csv.*" />
+          <option value="str.*" />
+          <option value="src.web.Projects.CP.pages.login._driver.type_element_by_xpath" />
+        </list>
+      </option>
+    </inspection_tool>
+  </profile>
+</component>
